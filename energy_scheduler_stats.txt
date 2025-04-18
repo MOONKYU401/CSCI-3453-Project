@@ -1,0 +1,58 @@
+Frame 01: CPU 1500 MHz, GPU 900 MHz | Workload: 30.71 ms -> Frame Time: 35.78 ms | Power: 700 mW | Reward: -95.41
+Frame 02: CPU 1500 MHz, GPU 900 MHz | Workload: 31.01 ms -> Frame Time: 36.13 ms | Power: 700 mW | Reward: -97.14
+Frame 03: CPU 1500 MHz, GPU 900 MHz | Workload: 28.50 ms -> Frame Time: 33.20 ms | Power: 700 mW | Reward: -82.51
+Frame 04: CPU 1500 MHz, GPU 900 MHz | Workload: 29.22 ms -> Frame Time: 34.04 ms | Power: 700 mW | Reward: -86.72
+Frame 05: CPU 900 MHz, GPU 500 MHz | Workload: 18.81 ms -> Frame Time: 37.00 ms | Power: 360 mW | Reward: -101.52
+Frame 06: CPU 1500 MHz, GPU 900 MHz | Workload: 29.71 ms -> Frame Time: 34.61 ms | Power: 700 mW | Reward: -89.55
+Frame 07: CPU 600 MHz, GPU 300 MHz | Workload: 16.37 ms -> Frame Time: 49.12 ms | Power: 230 mW | Reward: -162.12
+Frame 08: CPU 900 MHz, GPU 500 MHz | Workload: 19.85 ms -> Frame Time: 39.05 ms | Power: 360 mW | Reward: -111.77
+Frame 09: CPU 1200 MHz, GPU 700 MHz | Workload: 25.42 ms -> Frame Time: 37.21 ms | Power: 510 mW | Reward: -102.53
+Frame 10: CPU 600 MHz, GPU 300 MHz | Workload: 16.50 ms -> Frame Time: 49.49 ms | Power: 230 mW | Reward: -163.97
+Frame 11: CPU 1200 MHz, GPU 700 MHz | Workload: 25.13 ms -> Frame Time: 36.78 ms | Power: 510 mW | Reward: -100.39
+Frame 12: CPU 900 MHz, GPU 500 MHz | Workload: 19.06 ms -> Frame Time: 37.49 ms | Power: 360 mW | Reward: -103.96
+Frame 13: CPU 600 MHz, GPU 300 MHz | Workload: 15.22 ms -> Frame Time: 45.65 ms | Power: 230 mW | Reward: -144.76
+Frame 14: CPU 1500 MHz, GPU 900 MHz | Workload: 30.36 ms -> Frame Time: 35.37 ms | Power: 700 mW | Reward: -93.37
+Frame 15: CPU 1500 MHz, GPU 900 MHz | Workload: 29.77 ms -> Frame Time: 34.68 ms | Power: 700 mW | Reward: -89.89
+Frame 16: CPU 600 MHz, GPU 300 MHz | Workload: 14.99 ms -> Frame Time: 44.97 ms | Power: 230 mW | Reward: -141.33
+Frame 17: CPU 900 MHz, GPU 500 MHz | Workload: 17.50 ms -> Frame Time: 34.42 ms | Power: 360 mW | Reward: -88.59
+Frame 18: CPU 600 MHz, GPU 300 MHz | Workload: 13.29 ms -> Frame Time: 39.88 ms | Power: 230 mW | Reward: -115.88
+Frame 19: CPU 1200 MHz, GPU 700 MHz | Workload: 23.44 ms -> Frame Time: 34.30 ms | Power: 510 mW | Reward: -88.01
+Frame 20: CPU 600 MHz, GPU 300 MHz | Workload: 15.77 ms -> Frame Time: 47.32 ms | Power: 230 mW | Reward: -153.08
+Frame 21: CPU 1500 MHz, GPU 900 MHz | Workload: 31.45 ms -> Frame Time: 36.64 ms | Power: 700 mW | Reward: -99.71
+Frame 22: CPU 600 MHz, GPU 300 MHz | Workload: 16.13 ms -> Frame Time: 48.40 ms | Power: 230 mW | Reward: -158.52
+Frame 23: CPU 1200 MHz, GPU 700 MHz | Workload: 23.01 ms -> Frame Time: 33.67 ms | Power: 510 mW | Reward: -84.83
+Frame 24: CPU 1500 MHz, GPU 900 MHz | Workload: 28.42 ms -> Frame Time: 33.11 ms | Power: 700 mW | Reward: -82.05
+Frame 25: CPU 1500 MHz, GPU 900 MHz | Workload: 31.08 ms -> Frame Time: 36.22 ms | Power: 700 mW | Reward: -97.58
+Frame 26: CPU 1200 MHz, GPU 700 MHz | Workload: 26.05 ms -> Frame Time: 38.13 ms | Power: 510 mW | Reward: -107.13
+Frame 27: CPU 1500 MHz, GPU 900 MHz | Workload: 28.72 ms -> Frame Time: 33.46 ms | Power: 700 mW | Reward: -83.82
+Frame 28: CPU 600 MHz, GPU 300 MHz | Workload: 13.48 ms -> Frame Time: 40.44 ms | Power: 230 mW | Reward: -118.68
+Frame 29: CPU 600 MHz, GPU 300 MHz | Workload: 16.77 ms -> Frame Time: 50.32 ms | Power: 230 mW | Reward: -168.11
+Frame 30: CPU 600 MHz, GPU 300 MHz | Workload: 16.56 ms -> Frame Time: 49.68 ms | Power: 230 mW | Reward: -164.92
+Frame 31: CPU 1200 MHz, GPU 700 MHz | Workload: 23.90 ms -> Frame Time: 34.98 ms | Power: 510 mW | Reward: -91.40
+Frame 32: CPU 1500 MHz, GPU 900 MHz | Workload: 31.47 ms -> Frame Time: 36.67 ms | Power: 700 mW | Reward: -99.85
+Frame 33: CPU 1500 MHz, GPU 900 MHz | Workload: 31.20 ms -> Frame Time: 36.35 ms | Power: 700 mW | Reward: -98.25
+Frame 34: CPU 1200 MHz, GPU 700 MHz | Workload: 26.31 ms -> Frame Time: 38.50 ms | Power: 510 mW | Reward: -109.00
+Frame 35: CPU 600 MHz, GPU 300 MHz | Workload: 16.75 ms -> Frame Time: 50.25 ms | Power: 230 mW | Reward: -167.73
+Frame 36: CPU 600 MHz, GPU 300 MHz | Workload: 14.65 ms -> Frame Time: 43.95 ms | Power: 230 mW | Reward: -136.24
+Frame 37: CPU 600 MHz, GPU 300 MHz | Workload: 15.07 ms -> Frame Time: 45.21 ms | Power: 230 mW | Reward: -142.57
+Frame 38: CPU 1200 MHz, GPU 700 MHz | Workload: 23.70 ms -> Frame Time: 34.68 ms | Power: 510 mW | Reward: -89.91
+Frame 39: CPU 900 MHz, GPU 500 MHz | Workload: 19.58 ms -> Frame Time: 38.52 ms | Power: 360 mW | Reward: -109.11
+Frame 40: CPU 600 MHz, GPU 300 MHz | Workload: 13.19 ms -> Frame Time: 39.58 ms | Power: 230 mW | Reward: -114.41
+Frame 41: CPU 600 MHz, GPU 300 MHz | Workload: 15.60 ms -> Frame Time: 46.79 ms | Power: 230 mW | Reward: -150.44
+Frame 42: CPU 600 MHz, GPU 300 MHz | Workload: 14.92 ms -> Frame Time: 44.75 ms | Power: 230 mW | Reward: -140.23
+Frame 43: CPU 900 MHz, GPU 500 MHz | Workload: 17.08 ms -> Frame Time: 33.60 ms | Power: 360 mW | Reward: -84.48
+Frame 44: CPU 600 MHz, GPU 300 MHz | Workload: 16.65 ms -> Frame Time: 49.96 ms | Power: 230 mW | Reward: -166.28
+Frame 45: CPU 1200 MHz, GPU 700 MHz | Workload: 23.77 ms -> Frame Time: 34.79 ms | Power: 510 mW | Reward: -90.44
+Frame 46: CPU 1200 MHz, GPU 700 MHz | Workload: 23.61 ms -> Frame Time: 34.55 ms | Power: 510 mW | Reward: -89.23
+Frame 47: CPU 900 MHz, GPU 500 MHz | Workload: 19.33 ms -> Frame Time: 38.03 ms | Power: 360 mW | Reward: -106.63
+Frame 48: CPU 600 MHz, GPU 300 MHz | Workload: 13.28 ms -> Frame Time: 39.85 ms | Power: 230 mW | Reward: -115.74
+Frame 49: CPU 1500 MHz, GPU 900 MHz | Workload: 31.52 ms -> Frame Time: 36.73 ms | Power: 700 mW | Reward: -100.13
+Frame 50: CPU 600 MHz, GPU 300 MHz | Workload: 16.81 ms -> Frame Time: 50.43 ms | Power: 230 mW | Reward: -168.65
+
+
+--- Scheduler Statistics ---
+Total Frames Simulated: 50
+Average Frame Time: 39.69 ms
+Dropped Frames (Frame Time > 16.7 ms): 50
+Average Power Consumption: 435.80 mW
+Total Reward: -5748.56
